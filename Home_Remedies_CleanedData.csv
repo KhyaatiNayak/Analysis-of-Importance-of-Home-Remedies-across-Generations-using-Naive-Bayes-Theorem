@@ -1,0 +1,541 @@
+Home Remedies,Age,Gender,Locality,Education,Sore throat / Cough,Running Nose,Diarrhoea,Back/Joint pain,Constipation,Headache,Wounds / minor cuts and bruises,Sleeping problems / nervousness,Kadha / Herbal Teas,Apply Turmeric/ Haldi on wounds and acne / pimple,Drink Haldi/Turmeric milk,Using Hot water steam,Gargling for Sore throat,Aloe Vera / Onion Juice / Egg for Hair,Fennel seeds for Constipation,Other Home Remedies,Never used any home remedies
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Always,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Never,Most of the time,Never,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+No,20 Below,Male,Urban,High School,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Once in a while,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Most of the time,Never,Most of the time,Always,Always,Always,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Always,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+No,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Never,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+No,21 - 35,Female,Urban,Graduate,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Never,Never,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Most of the time,Always,Most of the time,Always,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Once in a while,Most of the time,Once in a while,Most of the time,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Most of the time,Most of the time,Most of the time,Always,Always,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Always,Always,Never,Never,Never,Always,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,High School,Always,Always,Once in a while,Always,Once in a while,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Never,Once in a while,Once in a while,Never,Never,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+No,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Rural,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Always,Always,Most of the time,Most of the time,Most of the time,Always,Always,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Never,Most of the time,Always,Once in a while,Always,Most of the time,Most of the time,Never,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Once in a while,Never,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Most of the time,Never,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Always,Once in a while,Never,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Most of the time,Never,Most of the time,Never,Never,Once in a while,Never,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Never,Never,Once in a while,Once in a while,Once in a while,Most of the time,Never,Never,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,Above 60,Female,Urban,Basic schooling,Always,Always,Once in a while,Never,Most of the time,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Once in a while,Never,Once in a while,Never,Never,Once in a while,Never,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,Above 60,Female,Urban,Graduate,Most of the time,Always,Never,Once in a while,Always,Always,Most of the time,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Never,Never,Never,Once in a while,Most of the time,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Never,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Always,Always,Once in a while,Once in a while,Never,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,Above 60,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Once in a while,Never,Always,Always,Never,Always,Always,Never,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Most of the time,Never,Once in a while,Once in a while,Always,Always,Always,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Once in a while,Always,Never,Always,Once in a while,Always,Once in a while,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Always,Always,Most of the time,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Once in a while,Once in a while,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Never,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Always,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Always,Always,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Never,Never,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,Above 60,Male,Urban,High School,Always,Never,Always,Always,Always,Always,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Rural,Post Graduate,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+No,21 - 35,Male,Urban,Graduate,Once in a while,Never,Never,Never,Never,Never,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Never,Never,Never,Never,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Basic schooling,Always,Always,Always,Always,Always,Always,Always,Never,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Never,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Never,Never,Never,Never,Never,Once in a while,Never,Never,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Once in a while,Once in a while,Once in a while,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Never,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Never,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Never,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Never,Most of the time,Never,Once in a while,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Never,Most of the time,Never,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Always,Always,Never,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Rural,Basic schooling,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,Above 60,Female,Rural,Basic schooling,Always,Always,Always,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Once in a while,Never,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Always,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Rural,Post Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Once in a while,Never,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Always,Always,Most of the time,Always,Always,Most of the time,Always,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Once in a while,Never,Never,Most of the time,Once in a while,Most of the time,Never,Most of the time,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Once in a while,Never,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,High School,Always,Most of the time,Once in a while,Most of the time,Never,Always,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Never,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Never,Once in a while,Never,Never,Never,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,20 Below,Male,Urban,High School,Always,Always,Most of the time,Always,Always,Always,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Never,Most of the time,Most of the time,Once in a while,Always,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Never,Never,Never,Never,Never,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Always,Most of the time,Always,Once in a while,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Always,Always,Once in a while,Most of the time,Never,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Never,Most of the time,Always,Never,Never,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Once in a while,Once in a while,Most of the time,Most of the time,Never,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Always,Always,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,Above 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Rural,Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,High School,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Never,Once in a while,Never,Never,Always,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,Above 60,Female,Urban,Basic schooling,Never,Never,Once in a while,Always,Never,Never,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Never,Most of the time,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Never,Never,Once in a while,Never,Once in a while,Never,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Never,Never,Once in a while,Once in a while,Once in a while,Never,Most of the time,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Once in a while,Most of the time,Most of the time,Once in a while,Always,Never,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Once in a while,Once in a while,Never,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Once in a while,Never,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Never,Never,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Rural,Graduate,Never,Never,Never,Never,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Once in a while,Most of the time,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Never,Never,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Most of the time,Once in a while,Once in a while,Most of the time,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Once in a while,Most of the time,Never,Once in a while,Once in a while,Once in a while,Never,Most of the time,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Most of the time,Once in a while,Once in a while,Most of the time,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,Above 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Basic schooling,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Rural,Graduate,Always,Always,Once in a while,Once in a while,Always,Always,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Never,Never,Never,Never,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Never,Once in a while,Once in a while,Once in a while,Most of the time,Always,Always,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Always,Never,Always,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Once in a while,Once in a while,Always,Always,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Always,Never,Once in a while,Never,Once in a while,Once in a while,Never,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Rural,Post Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Always,Never,Always,Always,Once in a while,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Rural,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Always,Always,Once in a while,Always,Once in a while,Most of the time,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,High School,Most of the time,Most of the time,Never,Once in a while,Never,Once in a while,Always,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Always,Once in a while,Never,Once in a while,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,High School,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Never,Once in a while,Never,Once in a while,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Always,Never,Once in a while,Always,Always,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Rural,High School,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,Above 60,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Never,Once in a while,Most of the time,Most of the time,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+No,20 Below,Female,Urban,High School,Never,Never,Never,Most of the time,Never,Once in a while,Never,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,36 - 60,Female,Rural,Post Graduate,Once in a while,Never,Never,Once in a while,Never,Never,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Always,Once in a while,Never,Never,Never,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Never,Never,Never,Never,Once in a while,Never,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Most of the time,Never,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Most of the time,Once in a while,Never,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Never,Most of the time,Once in a while,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Never,Never,Most of the time,Most of the time,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Always,Always,Once in a while,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Always,Most of the time,Most of the time,Once in a while,Always,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Never,Most of the time,Never,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,High School,Most of the time,Most of the time,Never,Once in a while,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Once in a while,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Never,Never,Never,Once in a while,Never,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Rural,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Never,Never,Never,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Always,Once in a while,Always,Most of the time,Most of the time,Always,Never,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Never,Never,Once in a while,Once in a while,Once in a while,Never,Most of the time,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Most of the time,Always,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Once in a while,Never,Once in a while,Once in a while,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Once in a while,Never,Most of the time,Once in a while,Always,Always,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Once in a while,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Never,Most of the time,Always,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,High School,Never,Never,Never,Never,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Never,Most of the time,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Always,Once in a while,Once in a while,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+No,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Never,Never,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Basic schooling,Most of the time,Most of the time,Most of the time,Never,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Never,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+No,20 Below,Male,Urban,Graduate,Most of the time,Always,Never,Most of the time,Once in a while,Always,Most of the time,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+No,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Never,Never,Once in a while,Once in a while,Never,Once in a while,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Most of the time,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Once in a while,Never,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Always,Always,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Rural,High School,Once in a while,Never,Never,Most of the time,Once in a while,Never,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Once in a while,Never,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Basic schooling,Never,Never,Never,Never,Never,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Always,Always,Always,Always,Once in a while,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Always,Always,Always,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Never,Once in a while,Always,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Always,Always,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Always,Once in a while,Never,Once in a while,Most of the time,Never,Once in a while,Never,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Always,Always,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,Above 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+No,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Most of the time,Once in a while,Once in a while,Always,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Never,Most of the time,Most of the time,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Always,Always,Once in a while,Always,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,Never,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Most of the time,Most of the time,Always,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Never,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Rural,Post Graduate,Always,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Never,Once in a while,Never,Most of the time,Once in a while,Never,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Most of the time,Always,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Most of the time,Never,Once in a while,Most of the time,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Never,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,Above 60,Female,Urban,Graduate,Most of the time,Always,Most of the time,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Most of the time,Most of the time,Never,Once in a while,Always,Most of the time,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,High School,Most of the time,Always,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,Above 60,Female,Urban,High School,Always,Always,Always,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Always,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Once in a while,Never,Never,Once in a while,Never,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Never,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Most of the time,Most of the time,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Once in a while,Never,Once in a while,Never,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Never,Always,Once in a while,Once in a while,Once in a while,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Always,Once in a while,Most of the time,Never,Never,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Rural,Graduate,Most of the time,Most of the time,Once in a while,Never,Once in a while,Never,Most of the time,Once in a while,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Never,Never,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Rural,Post Graduate,Most of the time,Never,Most of the time,Most of the time,Most of the time,Never,Most of the time,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Always,Most of the time,Once in a while,Always,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Basic schooling,Once in a while,Once in a while,Once in a while,Never,Never,Most of the time,Most of the time,Once in a while,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,Above 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Always,Never,Never,Most of the time,Most of the time,Always,Always,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Rural,Graduate,Once in a while,Never,Never,Never,Never,Never,Never,Once in a while,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Never,Never,Never,Never,Never,Most of the time,Never,Never,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Once in a while,Once in a while,Never,Never,Never,Once in a while,Once in a while,Never,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Always,Most of the time,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Always,Always,Never,Always,Most of the time,Most of the time,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Never,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,Above 60,Male,Urban,Graduate,Most of the time,Most of the time,Never,Never,Most of the time,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Rural,Graduate,Most of the time,Once in a while,Once in a while,Never,Never,Most of the time,Once in a while,Most of the time,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+No,21 - 35,Male,Urban,Post Graduate,Never,Never,Never,Never,Never,Never,Once in a while,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Always,Never,Never,Never,Once in a while,Never,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Once in a while,Never,Never,Once in a while,Once in a while,Most of the time,Never,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Once in a while,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Never,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Never,Most of the time,Never,Most of the time,Once in a while,Always,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Most of the time,Once in a while,Most of the time,Never,Never,Never,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Once in a while,Always,Always,Always,Never,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Most of the time,Never,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Never,Never,Never,Once in a while,Never,Always,Never,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+No,21 - 35,Male,Urban,Post Graduate,Never,Once in a while,Never,Most of the time,Never,Always,Never,Never,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Most of the time,Always,Always,Always,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Always,Always,Always,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Never,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Never,Never,Once in a while,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Rural,Graduate,Once in a while,Never,Never,Once in a while,Never,Never,Never,Once in a while,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+No,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Most of the time,Once in a while,Never,Most of the time,Once in a while,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Never,Always,Always,Always,Always,Never,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Once in a while,Never,Most of the time,Most of the time,Never,Never,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Once in a while,Never,Never,Never,Never,Most of the time,Never,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Never,Never,Never,Once in a while,Never,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Once in a while,Never,Never,Never,Never,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+No,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Always,Most of the time,Once in a while,Most of the time,Never,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Always,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Most of the time,Always,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Most of the time,Most of the time,Always,Most of the time,Most of the time,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Once in a while,Most of the time,Never,Most of the time,Most of the time,Never,Once in a while,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Never,Never,Never,Once in a while,Most of the time,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Once in a while,Most of the time,Most of the time,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+No,Above 60,Male,Rural,High School,Once in a while,Never,Never,Once in a while,Always,Never,Never,Never,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Most of the time,Most of the time,Always,Most of the time,Most of the time,Once in a while,Always,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Rural,Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Once in a while,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Always,Once in a while,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Never,Once in a while,Never,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+No,36 - 60,Female,Rural,Graduate,Once in a while,Never,Never,Never,Never,Most of the time,Never,Never,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Always,Never,Most of the time,Never,Always,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Always,Always,Most of the time,Most of the time,Always,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Never,Never,Once in a while,Once in a while,Once in a while,Once in a while,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Never,Never,Once in a while,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Never,Never,Never,Never,Never,Never,Never,Never,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,High School,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Rural,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Basic schooling,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Once in a while,Always,Always,Always,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Basic schooling,Once in a while,Once in a while,Never,Once in a while,Once in a while,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,High School,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Once in a while,Never,Never,Once in a while,Once in a while,Never,Once in a while,Never,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Once in a while,Most of the time,Once in a while,Most of the time,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Once in a while,Never,Once in a while,Never,Once in a while,Once in a while,Never,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Always,Always,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Rural,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,Above 60,Female,Rural,High School,Most of the time,Never,Once in a while,Never,Most of the time,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Never,Once in a while,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Always,Once in a while,Most of the time,Always,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Most of the time,Always,Most of the time,Always,Most of the time,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Always,Always,Once in a while,Once in a while,Always,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Once in a while,Never,Always,Once in a while,Most of the time,Most of the time,Always,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Once in a while,Once in a while,Once in a while,Once in a while,Never,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Never,Once in a while,Once in a while,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+No,36 - 60,Male,Rural,High School,Once in a while,Once in a while,Never,Once in a while,Once in a while,Never,Once in a while,Once in a while,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+No,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+No,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,21 - 35,Female,Urban,Post Graduate,Always,Always,Always,Most of the time,Always,Always,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Never,Never,Never,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+No,21 - 35,Male,Urban,Post Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Once in a while,Once in a while,Never,Never,Never,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Always,Always,Never,Once in a while,Always,Once in a while,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Always,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Never,Never,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+No,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Never,Once in a while,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+No,20 Below,Female,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Never,Never,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,Above 60,Female,Urban,Post Graduate,Once in a while,Once in a while,Never,Most of the time,Once in a while,Never,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Always,Once in a while,Most of the time,Once in a while,Once in a while,Most of the time,Never,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,High School,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Never,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Never,Most of the time,Always,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Post Graduate,Most of the time,Never,Never,Most of the time,Most of the time,Never,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+No,20 Below,Female,Urban,Post Graduate,Never,Once in a while,Never,Once in a while,Never,Most of the time,Most of the time,Most of the time,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Never,Always,Once in a while,Always,Always,Most of the time,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Never,Never,Never,Never,Most of the time,Most of the time,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Never,Once in a while,Once in a while,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Never,Never,Never,Never,Most of the time,Most of the time,Never,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Always,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Always,Always,Always,Always,Always,Always,Once in a while,Never,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+No,20 Below,Female,Urban,High School,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,Always,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Always,Once in a while,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Once in a while,Once in a while,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,High School,Once in a while,Never,Never,Most of the time,Once in a while,Once in a while,Never,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Always,Most of the time,Once in a while,Always,Always,Most of the time,Always,Most of the time,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Most of the time,Most of the time,Never,Most of the time,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Always,Always,Always,Once in a while,Most of the time,Always,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Always,Never,Most of the time,Always,Never,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Always,Always,Always,Most of the time,Most of the time,Always,Never,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Never,Most of the time,Most of the time,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Never,Most of the time,Once in a while,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Once in a while,Most of the time,Never,Once in a while,Never,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+No,21 - 35,Male,Urban,Graduate,Once in a while,Never,Never,Never,Never,Never,Never,Never,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Once in a while,Never,Once in a while,Most of the time,Once in a while,Always,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,High School,Always,Never,Once in a while,Never,Always,Never,Once in a while,Never,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Always,Once in a while,Most of the time,Always,Always,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Never,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Female,Urban,High School,Once in a while,Once in a while,Never,Once in a while,Once in a while,Most of the time,Never,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Never,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Always,Always,Once in a while,Always,Always,Always,Once in a while,Never,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Rural,High School,Once in a while,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Always,Always,Never,Always,Always,Always,Most of the time,Always,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Post Graduate,Most of the time,Once in a while,Never,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Never,Never,Never,Never,Never,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,Above 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,21 - 35,Female,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Never,Most of the time,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Never,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,21 - 35,Male,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Most of the time,Once in a while,Once in a while,Never,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,Above 60,Male,Urban,Post Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,Once in a while,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+No,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Never,Never,Never,Once in a while,Never,Once in a while,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Most of the time,Once in a while,Once in a while,Most of the time,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Male,Urban,Graduate,Always,Most of the time,Once in a while,Never,Never,Most of the time,Once in a while,Never,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Graduate,Always,Most of the time,Once in a while,Once in a while,Never,Always,Never,Never,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+Yes,Above 60,Female,Urban,Graduate,Always,Always,Always,Once in a while,Always,Always,Once in a while,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,20 Below,Male,Urban,High School,Most of the time,Most of the time,Once in a while,Always,Once in a while,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Never,Never,Never,Never,Never,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+Yes,20 Below,Male,Urban,Graduate,Once in a while,Never,Never,Never,Never,Most of the time,Once in a while,Once in a while,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yes,36 - 60,Female,Urban,High School,Always,Always,Always,Always,Always,Always,Always,Always,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+No,36 - 60,Female,Urban,Post Graduate,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,Most of the time,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE
+Yes,21 - 35,Male,Rural,Post Graduate,Always,Once in a while,Most of the time,Always,Always,Once in a while,Once in a while,Once in a while,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Never,Once in a while,Never,Always,Most of the time,Once in a while,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+No,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Once in a while,Once in a while,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+Yes,20 Below,Female,Urban,Graduate,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+No,20 Below,Male,Urban,Graduate,Once in a while,Once in a while,Once in a while,Never,Once in a while,Most of the time,Never,Once in a while,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Yes,20 Below,Female,Urban,High School,Most of the time,Most of the time,Once in a while,Once in a while,Once in a while,Most of the time,Most of the time,Once in a while,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
